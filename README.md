@@ -4,7 +4,7 @@
 ### Hola a todos !! 👋
 <hr>
 <p>Soy Guido Rafael Fernandez, tengo 31 años, apasionado por la ciencia y la tecnología 😄😄. <p/>
- Soy Full Stack Web Developer 🎓 egresado de <a href="https://vibrant-hoover-999651.netlify.app/">www.RGF.com</a>, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
+ Soy Full Stack Web Developer 🎓 egresado de Institu Superior populorum progessio INTELA -Técnico Superior en Desarrollo de Software y mi portafolio es <a href="https://vibrant-hoover-999651.netlify.app/">Click Aqui Portafolios</a>, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
 </p>
 
 > Estoy tomando cursos sobre nuevos lenguajes de programación 💻 
@@ -12,7 +12,7 @@
 > Juego videojuegos, hago ejercicio y estoy aprendiendo ingles avanzado 🎮 💪
 #### Contáctame:
 <p>
-    <a href="https://www.linkedin.com/in/federico-calderón-8146a71b0/" rel="nofollow">
+    <a href="https://www.linkedin.com/in/guido-rafael-fernandez/" rel="nofollow">
         <img alt="Linkedin" src="https://camo.githubusercontent.com/29b6db84167eaa3dadd80edbe9f31a6df96063587bd3b145cb81f3c622ea63b6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62652f4c696e6b6564496e5f6c6f676f5f496e2d426c61636b2e7376672f3130323470782d4c696e6b6564496e5f6c6f676f5f496e2d426c61636b2e7376672e706e67" height="22" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/LinkedIn_logo_In-Black.svg/1024px-LinkedIn_logo_In-Black.svg.png" style="max-width:100%;">
     </a> 
 </p>
