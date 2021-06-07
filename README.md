@@ -4,7 +4,7 @@
 ### Hola a todos !! 👋
 <hr>
 <p>Soy Guido Rafael Fernandez, tengo 31 años, apasionado por la ciencia y la tecnología 😄😄. <p/>
- Soy Full Stack Web Developer 🎓 egresado de <a href="https://app.netlify.com/sites/vibrant-hoover-999651/overview">www.RGF.com</a>, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
+ Soy Full Stack Web Developer 🎓 egresado de <a href="https://vibrant-hoover-999651.netlify.app/">www.RGF.com</a>, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
 </p>
 
 > Estoy tomando cursos sobre nuevos lenguajes de programación 💻 
