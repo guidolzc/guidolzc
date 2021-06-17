@@ -4,7 +4,7 @@
 ### Hola a todos !! 👋
 <hr>
 <p>Soy Guido Rafael Fernandez, tengo 31 años, apasionado por la ciencia y la tecnología 😄😄. <p/>
- Soy Full Stack Web Developer 🎓 egresado de Institu Superior populorum progessio INTELA -Técnico Superior en Desarrollo de Software y mi portafolio es <a href="https://vibrant-hoover-999651.netlify.app/">Click Aqui Portafolios</a>, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
+ Soy Full Stack Web Developer 🎓 egresado de Institu Superior populorum progessio INTELA -Técnico Superior en Desarrollo de Software y mi portafolio es <a href="https://sharp-northcutt-bc0db8.netlify.app/">Click Aqui Portafolios</a>, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
 </p>
 
 > Estoy tomando cursos sobre nuevos lenguajes de programación 💻 
